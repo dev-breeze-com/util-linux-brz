@@ -1,7 +1,7 @@
-                                  util-linux
-								  ==========
+UTIL-LINUX
+==========
 
-              util-linux is a random collection of Linux utilities
+     util-linux is a random collection of Linux utilities
 
      Note that in years 2006-2010 this project used the name "util-linux-ng".
 
